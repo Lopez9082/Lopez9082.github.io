@@ -36,7 +36,7 @@ export default function Projects() {
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Meus <span className="text-gradient">Projetos</span>
           </h2>
-          <p className="text-muted-foreground">Alguns dos trabalhos que desenvolvi</p>
+          <p className="text-muted-foreground">Alguns dos trabalhos que desenvolv</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
