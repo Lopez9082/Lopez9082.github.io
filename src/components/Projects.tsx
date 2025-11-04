@@ -13,18 +13,18 @@ export default function Projects() {
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop'
     },
     {
-      title: 'Landing Page Responsiva',
-      description: 'Landing page moderna e responsiva com animações suaves e design minimalista.',
-      tech: ['React', 'TypeScript', 'Tailwind CSS'],
-      github: 'https://github.com',
+      title: 'Site de consulta medica',
+      description: 'Site de consulta moderno e responsiva com animações suaves e Banco de dados.',
+      tech: ['HTML', 'PHP', 'CodeIgniter', 'CSS', 'SQL'],
+      github: 'https://github.com/Lopez9082/Site-Consulta-medica',
       demo: 'https://demo.com',
       image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=400&fit=crop'
     },
     {
-      title: 'API RESTful',
-      description: 'API RESTful robusta com autenticação JWT, validação de dados e documentação completa.',
-      tech: ['PHP', 'CodeIgniter', 'MySQL', 'JWT'],
-      github: 'https://github.com',
+      title: 'TI VERDE',
+      description: 'Website desenvolvido com HTML, CSS e JavaScript focado em sustentabilidade e tecnologia verde.',
+      tech: ['HTML', 'CSS', 'JavaScript'],
+      github: 'https://github.com/Lopez9082/TI-VERDE',
       image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop'
     }
   ];

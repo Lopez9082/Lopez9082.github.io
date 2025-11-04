@@ -7,31 +7,31 @@ export default function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'contato@joseaugusto.com',
-      href: 'mailto:contato@joseaugusto.com'
+      value: 'joseauguxto6@gmail.com',
+      href: 'mailto:joseauguxto6@gmail.com'
     },
     {
       icon: Phone,
       label: 'Telefone',
-      value: '+55 (11) 99999-9999',
+      value: '+55 (21) 99044-1216',
       href: 'tel:+5511999999999'
     },
     {
       icon: MapPin,
       label: 'Localização',
-      value: 'São Paulo, Brasil'
+      value: 'Rio de janeiro, Brasil'
     },
     {
       icon: Github,
       label: 'GitHub',
-      value: 'github.com/joseaugusto',
-      href: 'https://github.com/joseaugusto'
+      value: 'github.com/lopez9082',
+      href: 'https://github.com/lopez9082',
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'linkedin.com/in/joseaugusto',
-      href: 'https://linkedin.com/in/joseaugusto'
+      href: 'https://www.linkedin.com/in/jos%C3%A9-augusto-937781364/'
     }
   ];
 

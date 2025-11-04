@@ -35,7 +35,7 @@ export default function Skills() {
     {
       icon: Code2,
       title: 'Outros',
-      skills: ['Linux', 'Metodologias Ágeis', 'Clean Code'],
+      skills: ['Linux', 'Metodologias Ágeis', 'Clean Code', 'DevOps'], 
       color: 'from-yellow-500 to-orange-500'
     }
   ];
